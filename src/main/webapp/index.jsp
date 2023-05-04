@@ -1,9 +1,10 @@
+<!DOCTYPE html>
 <html>
 <body>
 
-<p>Welcome to Meeseva Center Uyyalawada.</p>
-<p>Contact us.</p>
-<p>G.V Ramana Cell: 9441053373.</p>
+<h2>G.V.R HOUSE</h2>
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
 
 </body>
 </html>
+
